@@ -1,0 +1,18 @@
+[book]
+authors = ["mohamedalichelbi"]
+language = "en"
+multilingual = false
+src = "src"
+title = "GrowthMate"
+
+[preprocessor]
+
+[preprocessor.admonish]
+command = "mdbook-admonish"
+on_failure = "bail"
+assets_version = "3.0.2" # do not edit: managed by `mdbook-admonish install`
+
+[output]
+
+[output.html]
+additional-css = ["./assets/css/mdbook-admonish.css"]
