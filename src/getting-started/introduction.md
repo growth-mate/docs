@@ -1,7 +1,7 @@
 # Introduction
 Welcome to GrowthMate Dashboard! 
 
-Here you will learn more about our product and how it can help you serve hyper-targeted ads.
+Here, you will learn more about our product and how it can help you serve hyper-targeted ads.
 ## About
 
 GrowthMate Dashboard is a revolutionary platform for creating and publishing web3 ads. Our goal is to offer hyper-targeted ads tailored to the user's transaction history, significantly increasing Return on Ad Spend (ROAS) for advertisers and resulting in higher earnings for publishers.
@@ -16,5 +16,5 @@ Here should ideally come the front page 👇
 ![](https://i.imgur.com/a/BD6V82S)
 
 ```admonish note
-If you still have any question after going through the Docs, please don't hesitate to contact us contact@growthmate.xyz. 
+If you still have any questions after going through the documentation, please don't hesitate to contact us at **contact@growthmate.xyz**.
 ```
