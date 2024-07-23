@@ -5,7 +5,7 @@ After successfully creating a campaign, you will see this view.
 
 ![image2](https://hackmd.io/_uploads/S1Bmh8T_R.png)
 
-1. In this step, you will set a budget for your campaign. 
+1. In this step, you will deposit money into your compaign budget. 
 2. Currently, we accept stablecoins on NEAR and payments via Stripe.
 3. Let's say you choose to pay with stablecoins. Once you connect your wallet, you will see a menu with four options:
 * USDC.e (Link here)
