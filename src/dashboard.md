@@ -3,7 +3,7 @@
 Welcome to your dashboard.
 
 Here should ideally come the dashboard page 👇
-![Dashboard](../assets/images/dashboard.png)
+![Screenshot 2024-07-22 at 14.44.15](https://hackmd.io/_uploads/SkcFd1TOA.png)
 
 On the left side of the screen, you will be able to see information about the active campaigns:
 
