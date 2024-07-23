@@ -1,4 +1,4 @@
-# Studio Tutorial
+# Studio
 
 Welcome to your studio.
 
