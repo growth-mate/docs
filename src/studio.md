@@ -1,4 +1,4 @@
-# Dashboard
+# Studio Tutorial
 
 Welcome to your studio.
 
