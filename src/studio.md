@@ -56,8 +56,10 @@ Lastly, you can select among different campaign tags to help filter users who ar
 
 ![Screenshot 2024-07-23 at 13.28.58](https://hackmd.io/_uploads/rk-MVza_C.png)
 
-7. The final step is to review the campaign. If everything looks good, submit it to create your new campaign.
+7. Once you are ready, review the campaign. If everything looks good, submit it to create your new campaign.
 
 ![Screenshot 2024-07-23 at 13.29.52](https://hackmd.io/_uploads/S1ZOEMad0.png)
+
+8. Congrats! Your campaign was created. Now you will be proceeded to the payment.
 
 
