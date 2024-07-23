@@ -2,33 +2,41 @@
 
 Welcome to your dashboard.
 
-Here should ideally come the dashboard page 👇
 ![Screenshot 2024-07-22 at 14.44.15](https://hackmd.io/_uploads/SkcFd1TOA.png)
 
-On the left side of the screen, you will be able to see information about the active campaigns:
+Let's go through the main components:
 
-## Active Campaign: 
-1. Campaign Name
-2. Campaign status
-3. Current number of impressions 
-4. Current number of clicks
-5. The remaining budget left for this campaign (including the visual bar)
+1. Each campaign has a status bar like this:
 
-On the right side of the screen, you will be able to see information about the ended campaigns:
+    ![Screenshot 2024-07-23 at 10.35.26](https://hackmd.io/_uploads/HJnds16dA.png)
 
-## Past Campaign: 
-1. Campaign Name
-2. Campaign status
-3. Total numbers of impressions 
-4. Total number of clicks
-5. Option to renew the campaign
-6. Take a look at the detailed campaign performance
-7. Permanently delete past campaign
+- **Running** - For all currently live campaigns
+- **Ended** - For all your past campaigns which have been executed
+- **Stopped** - For all paused campaigns
+- **PendingReview** When your campaign is created, but waits for an approval from us
+- **PendingPayment** When the campaign is created, but the deposit hasn't arrived yet (it can take some time depending on the payment methond you selected)
+
+2. Next to the status bar, you see the campaign name: **Example Campaign**
+3. Below you will find information about your campaign.
+![Screenshot 2024-07-23 at 10.51.32](https://hackmd.io/_uploads/HywBygaOR.png)
+- 24,530 shows the total number of impression for your campaign
+- 67 shows how many times viewers have clicked on your ad campaign
+
+4. Each running campaign has also a remaining balance, where spendings are tracked
+![Screenshot 2024-07-23 at 10.55.44](https://hackmd.io/_uploads/HyFTxea_R.png)
+
+5. Once the campaign has been ended, we can see its performance by clicking on **Statistics** and of course if we are happy with the results, **Renew** it
+![Screenshot 2024-07-23 at 11.04.38](https://hackmd.io/_uploads/HJnEfgpuR.png)
+
+6. To delete a past campaign, click on the 🗑️
+
+
 
 ## Create a new campaign: 
-When you hover below the active campaign, you will be able to create a new campaign
+When you hover below an active campaign, you will find a button to create a new one
 
-Here should ideally come the new page 👇
-![Dashboard](../assets/images/dashboard.png)
+![Screenshot 2024-07-23 at 11.11.43](https://hackmd.io/_uploads/H1VW4l6d0.png)
 
-Instructions for this are [in Studio](./studio.md)
+
+
+Instructions how to create a new campaign can be found [in Studio](./studio.md)
