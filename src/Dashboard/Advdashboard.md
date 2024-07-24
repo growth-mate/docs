@@ -17,7 +17,7 @@ Let's go through the main components:
 2. Next to the status bar, you see the campaign name: **Example Campaign**
 3. Below, you will find detailed information about your campaign
 ![Screenshot 2024-07-23 at 10.51.32](https://hackmd.io/_uploads/HywBygaOR.png)
-- 24,530 shows the total number of impression for your campaign
+- 24,530 shows the total number of impressions for your campaign
 - 67 shows the number of times viewers have clicked on your ad campaign
 
 4. Each running campaign has also a remaining balance, where spendings are tracked
