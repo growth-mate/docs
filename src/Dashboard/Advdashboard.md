@@ -1,6 +1,4 @@
-# Dashboard
-
-Welcome to your dashboard.
+# Advertiser's Dashboard
 
 ![Screenshot 2024-07-22 at 14.44.15](https://hackmd.io/_uploads/SkcFd1TOA.png)
 
