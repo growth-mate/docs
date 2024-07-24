@@ -2,11 +2,8 @@
 
 Here you will find step-by-step explanation how to create your first ad unit.
 
-
 ## New Campaign: 
 Creating a new campaign is easy, just follow the steps:
-
-
 
 1. Enter the name of your selected campaign.
 2. Provide the URL link to your ad campaign. This link is crucial as it directs viewers to your campaign whenever they click on the ad.
