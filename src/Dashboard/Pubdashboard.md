@@ -6,7 +6,7 @@ Let's go through the main components:
 
 1. Each ad unit has a status bar that indicates its state:
 
-![Screenshot 2024-07-24 at 22.27.32](https://hackmd.io/_uploads/SJDaQ1JY0.png)
+   ![Screenshot 2024-07-24 at 22.27.32](https://hackmd.io/_uploads/SJDaQ1JY0.png)
 
 
 - **Active** - Indicates all currently live ad units
