@@ -1,42 +1,42 @@
 # Publisher's Dashboard
 
-![Screenshot 2024-07-22 at 14.44.15](https://hackmd.io/_uploads/SkcFd1TOA.png)
+![Screenshot 2024-07-24 at 22.23.37](https://hackmd.io/_uploads/rk7kX1JK0.png)
 
 Let's go through the main components:
 
-1. Each campaign has a status bar that indicates its state:
+1. Each ad unit has a status bar that indicates its state:
 
-    ![Screenshot 2024-07-23 at 10.35.26](https://hackmd.io/_uploads/HJnds16dA.png)
+![Screenshot 2024-07-24 at 22.27.32](https://hackmd.io/_uploads/SJDaQ1JY0.png)
 
-- **Running** - Indicates all currently live campaigns
-- **Ended** - Shows all past campaigns that are no longer active
-- **Stopped** - Lists all campaigns that have been paused
-- **PendingReview** Displays campaigns that have been created and await our approval
-- **PendingPayment** Appears when a campaign is created but the deposit hasn't been received yet (processing time may vary depending on the payment method selected)
 
-2. Next to the status bar, you see the campaign name: **Example Campaign**
-3. Below, you will find detailed information about your campaign
+- **Active** - Indicates all currently live ad units
+- **Archived** - Shows all past ad units that are no longer active, but can be reactivated
+- **PendingReview** Displays all ad units that have been created and wait for our approval
+
+2. Next to the status bar, you see the ad unit name: **Example Ad Unit**
+3. Below, you will find detailed information like
 ![Screenshot 2024-07-23 at 10.51.32](https://hackmd.io/_uploads/HywBygaOR.png)
-- 24,530 shows the total number of impression for your campaign
-- 67 shows the number of times viewers have clicked on your ad campaign
+- 24,530 shows the total number of impressions on your ad unit
+- 67 shows the number of times viewers have clicked on it
 
-4. Each running campaign has also a remaining balance, where spendings are tracked
-![Screenshot 2024-07-23 at 10.55.44](https://hackmd.io/_uploads/HyFTxea_R.png)
+4. Each ad unit earns you money, so below you can see your total unclaimed earnings
+![Screenshot 2024-07-24 at 22.59.29](https://hackmd.io/_uploads/rkSSsk1K0.png)
 
-5. Once the campaign has been ended, we can see its performance by clicking on **Statistics**. If you are satisfied with the results, you can **Renew** it
-![Screenshot 2024-07-23 at 11.04.38](https://hackmd.io/_uploads/HJnEfgpuR.png)
 
-6. To delete a past campaign, click on the 🗑️
+5. Once an ad unit has been deactivated, we can still track its performance by clicking on its **Statistics**. 
 
+   ![Screenshot 2024-07-24 at 23.02.06](https://hackmd.io/_uploads/SJL1nykKA.png)
+
+
+6. To delete it, click on the 🗑️
 
 
 ## Create a new campaign: 
-To create a new campaign, you can either hover over the box next to your exisitng campaigns or simply click the top right.
-![Screenshot 2024-07-23 at 11.11.43](https://hackmd.io/_uploads/H1VW4l6d0.png)
-
-![Screenshot 2024-07-22 at 14.44.15](https://hackmd.io/_uploads/SyprSVadA.png)
+To create a new ad unit, you can either hover over the box next to your exisitng units or simply click the top right.
+![Screenshot 2024-07-24 at 23.04.53](https://hackmd.io/_uploads/Sk_9nk1FC.png)
 
 
+![Screenshot 2024-07-24 at 23.05.36](https://hackmd.io/_uploads/HyBp21ytR.png)
 
 
-Instructions how to create a new campaign can be found [in Studio](./Studio/studio.md)
+Instructions how to create a new ad unit can be found [in Studio](./Studio/studio.md) section Publishers.
