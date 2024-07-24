@@ -1,6 +1,4 @@
 # How to create account
-
-
 1. Go to <a href="https://app.growthmate.xyz/login" target="_blank">https://app.growthmate.xyz/login</a>
 2. Choose the prefered way to create an account.
 3. Currently we provide Google, X and GitHub as options for our users to login. 
