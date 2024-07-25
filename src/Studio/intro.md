@@ -1,4 +1,4 @@
-# Dashboard
+# 📘 Studio info
 
 Welcome to your studio.
 

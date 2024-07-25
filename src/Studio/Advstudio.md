@@ -1,4 +1,4 @@
-# Advertiser's Studio
+# 📢 Advertiser's Studio
 
 Here you will find step-by-step explanation how to create your first campaign.
 

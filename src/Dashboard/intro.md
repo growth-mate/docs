@@ -1,6 +1,4 @@
-# Dashboard
-
-Welcome to your dashboard.
+# 🛠️ Dashboard info
 
 If you are an advertiser, please proceed to the [Advertiser's Dashboard](./Advdashboard.md)
 

@@ -1,4 +1,4 @@
-# Introduction
+# 👋 Introduction
 Welcome to GrowthMate Docs! 
 
 Here, you will learn more about our product and how it can help you serve hyper-targeted ads.

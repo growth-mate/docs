@@ -1,4 +1,4 @@
-## Payment: 
+## 💵 Campaign Payment: 
 Welcome to the campaign payment section!
 
 After successfully creating a campaign, you will see this view.

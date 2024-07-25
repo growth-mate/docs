@@ -1,4 +1,4 @@
-# How to create account
+# ✨ How to create account
 
 
 1. Go to <a href="https://app.growthmate.xyz/login" target="_blank">https://app.growthmate.xyz/login</a>

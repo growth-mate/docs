@@ -1,4 +1,4 @@
-# Publisher's Dashboard
+# 📺 Publisher's Dashboard
 
 ![Screenshot 2024-07-24 at 22.23.37](https://hackmd.io/_uploads/rk7kX1JK0.png)
 
