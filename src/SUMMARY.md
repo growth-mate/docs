@@ -9,4 +9,3 @@
     - [📢 Advertiser's Studio](./Studio/Advstudio.md)
     - [📺 Publisher's Studio](./Studio/Pubstudio.md)
     - [💵 Studio Payment](./Studio/payment.md)
-- [Chapter 1](./chapter_1.md)
