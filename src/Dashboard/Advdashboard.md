@@ -39,4 +39,4 @@ To create a new campaign, you can either hover over the box next to your exisitn
 
 
 
-Instructions how to create a new campaign can be found [in Studio](./Studio/studio.md)
+Instructions how to create a new campaign can be found [in Studio](../Studio/Advstudio.md) section Advertisers.

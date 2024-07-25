@@ -39,4 +39,4 @@ To create a new ad unit, you can either hover over the box next to your exisitng
 ![Screenshot 2024-07-24 at 23.05.36](https://hackmd.io/_uploads/HyBp21ytR.png)
 
 
-Instructions how to create a new ad unit can be found [in Studio](./Studio/studio.md) section Publishers.
+Instructions how to create a new ad unit can be found [in Studio](../Studio/Pubstudio.md) section Publishers.
