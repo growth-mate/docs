@@ -55,4 +55,4 @@ Lastly, you can select among different campaign tags to help filter users who ar
 
 ![Screenshot 2024-07-23 at 13.29.52](https://hackmd.io/_uploads/S1ZOEMad0.png)
 
-8. Congrats! Your campaign was created. Now you will be proceeded to the [Payment](./payment.md)
+8. Congrats! Your campaign was created. Now you will be proceeded to the [Campaign Payment](./Campayment.md)
