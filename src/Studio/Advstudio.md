@@ -42,11 +42,11 @@ Please ensure that you upload an image with the correct size. If the image size 
 Currently, we offer two main options for running your campaign:
 
 * **Reach** This option will serve the ads to everyone
-```admonish note
+```admonish example
 It's ideal for brand awareness campaigns, as it maximizes the reach of your ad to a wide audience. This approach is great for introducing new products or services and building a broad audience base.
 ```
 * **Conversion**  uses our algorithm to target the most appropriate users, maximizing engagement and conversions.
-```admonish note
+```admonish example
 It aims to drive higher engagement and conversion rates. It is perfect for campaigns that have specific goals such as sales, sign-ups, or other user interactions, ensuring that your ad budget is spent more effectively.
 ```
 Additionally, you can target viewers based on their net worth. For example, if you want your ad to be seen only by users with a wallet balance between $100 and $100,000, adjust the slider to reflect these values.
