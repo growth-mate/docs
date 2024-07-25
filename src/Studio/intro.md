@@ -1,7 +1,5 @@
 # 📘 Studio info
 
-Welcome to your studio.
-
 If you are an advertiser, please proceed to the [Advertiser's Studio](../Studio/Advstudio.md)
 
 If you are a publisher, please proceed to the [Publisher's Studio](../Studio/Pubstudio.md)
