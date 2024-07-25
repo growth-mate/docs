@@ -20,14 +20,19 @@ Creating a new campaign is easy, just follow the steps:
   Small Square 200px x 200px
   
   Banner 320px x 50px
+
   
-> Please note that these sizes may vary over time
+```admonish note
+Please note that these sizes may vary over time
+```
 
 4. The next step is to upload the ad image.
 
 ![Screenshot 2024-07-23 at 12.06.54](https://hackmd.io/_uploads/Byje-b6d0.png)
 
-> Please ensure that you upload an image with the correct size. If the image size is incorrect, you won't be able to proceed to the next step.
+```admonish note
+Please ensure that you upload an image with the correct size. If the image size is incorrect, you won't be able to proceed to the next step.
+```
 
 
 5. Next is selecting the target audience
