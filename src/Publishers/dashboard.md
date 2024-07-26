@@ -1,4 +1,4 @@
-# 📺 Publisher's Dashboard
+# 🛠️ Publisher's Dashboard
 
 ![Screenshot 2024-07-24 at 22.23.37](https://hackmd.io/_uploads/rk7kX1JK0.png)
 
@@ -38,4 +38,4 @@ To create a new ad unit, you can either hover over the box next to your exisitng
 ![Screenshot 2024-07-24 at 23.05.36](https://hackmd.io/_uploads/HyBp21ytR.png)
 
 
-Instructions how to create a new ad unit can be found [in Studio](../Studio/Pubstudio.md) section Publishers.
+Instructions how to create a new ad unit can be found [in Studio](../Publishers/studio.md).

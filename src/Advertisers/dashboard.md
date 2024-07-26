@@ -1,4 +1,4 @@
-# 📢 Advertiser's Dashboard
+# 🛠️ Advertiser's Dashboard
 
 ![Screenshot 2024-07-22 at 14.44.15](https://hackmd.io/_uploads/SkcFd1TOA.png)
 
@@ -28,8 +28,6 @@ Let's go through the main components:
 
 6. To delete a past campaign, click on the 🗑️
 
-
-
 ## Create a new campaign: 
 To create a new campaign, you can either hover over the box next to your exisitng campaigns or simply click the top right.
 ![Screenshot 2024-07-23 at 11.11.43](https://hackmd.io/_uploads/H1VW4l6d0.png)
@@ -39,4 +37,4 @@ To create a new campaign, you can either hover over the box next to your exisitn
 
 
 
-Instructions how to create a new campaign can be found [in Studio](../Studio/Advstudio.md) section Advertisers.
+Instructions how to create a new campaign can be found [in Studio](../Advertisers/studio.md)

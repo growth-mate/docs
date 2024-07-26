@@ -1,4 +1,4 @@
-# 📢 Advertiser's Studio
+# 📘 Advertiser's Studio
 
 Here you will find step-by-step explanation how to create your first campaign.
 
@@ -64,4 +64,4 @@ Lastly, you can choose from various campaign tags in order to filter users based
 
 ![Screenshot 2024-07-23 at 13.29.52](https://hackmd.io/_uploads/S1ZOEMad0.png)
 
-8. Congrats! Your campaign was created. Now you will be proceeded to the [Campaign Payment](./Campayment.md)
+8. Congrats! Your campaign was created. Now you will be proceeded to the [Campaign Payment](../Payment/Cpayment.md)
