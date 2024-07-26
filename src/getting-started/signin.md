@@ -16,5 +16,5 @@ Our login options may be changed in the future.
 ![ezgif.com-animated-gif-maker](https://hackmd.io/_uploads/BkQwQc0_R.gif)
 
 
-5. There, you will find a button that will lead you to the coresponding dashboard.
+5. You will find a button there, that will lead you to the coresponding dashboard.
 
