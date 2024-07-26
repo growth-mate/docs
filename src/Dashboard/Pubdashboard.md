@@ -8,7 +8,6 @@ Let's go through the main components:
 
    ![Screenshot 2024-07-24 at 22.27.32](https://hackmd.io/_uploads/SJDaQ1JY0.png)
 
-
 - **Active** - Indicates all currently live ad units
 - **Archived** - Shows all past ad units that are no longer active, but can be reactivated
 - **PendingReview** Displays all ad units that have been created and wait for our approval
@@ -23,7 +22,7 @@ Let's go through the main components:
 ![Screenshot 2024-07-24 at 22.59.29](https://hackmd.io/_uploads/rkSSsk1K0.png)
 
 
-5. Once an ad unit has been deactivated, we can still track its performance by clicking on its **Statistics**. 
+5. Once an ad unit has been deactivated, we can still track its performance by selecting **Statistics**. 
 
    ![Screenshot 2024-07-24 at 23.02.06](https://hackmd.io/_uploads/SJL1nykKA.png)
 
