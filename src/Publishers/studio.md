@@ -8,9 +8,10 @@ Here you will find step-by-step explanation how to create your first ad unit.
 
 ![Screenshot 2024-07-26 at 13.36.36](https://hackmd.io/_uploads/rJuUqZbKC.png)
 
-3.Choose the desired format
-![Screenshot 2024-07-26 at 13.40.06](https://hackmd.io/_uploads/HkimoWbF0.png)
 
+3.Choose the desired format.
+ 
+ ![Screenshot 2024-07-26 at 13.40.06](https://hackmd.io/_uploads/HkimoWbF0.png)
 
 - Currently we support 3 types:
   
@@ -34,4 +35,16 @@ We ensure that your visitors will always be served the appropriate content, even
 
 5. Once you are ready, review the inputs. If everything looks good, you can confirm and comple it.
 
-![Screenshot 2024-07-23 at 13.29.52](https://hackmd.io/_uploads/S1ZOEMad0.png)
+![Screenshot 2024-07-26 at 21.00.20](https://hackmd.io/_uploads/rydizd-t0.png)
+
+6. We are almost ready. You have successfuly created ad unit. Now it is time to embed it. You can choose between HTML.
+
+![Screenshot 2024-07-26 at 20.54.09](https://hackmd.io/_uploads/HJ4Mmd-KR.png)
+
+```admonish note
+We also support React + wallet-selector which is our base case
+```
+
+   ![Screenshot 2024-07-26 at 20.54.38](https://hackmd.io/_uploads/ByzE4_bYC.png)
+   
+   ![Screenshot 2024-07-26 at 20.54.28](https://hackmd.io/_uploads/HyDoEOZYR.png)
