@@ -37,7 +37,7 @@ We ensure that your visitors will always be served the appropriate content, even
 
 ![Screenshot 2024-07-26 at 21.00.20](https://hackmd.io/_uploads/rydizd-t0.png)
 
-6. We are almost ready. You have successfuly created ad unit. Now it is time to embed it. You can choose between HTML.
+6. We are almost ready. You have successfully created the ad unit. Now it's time to embed it. You can choose to embed it using HTML.
 
 ![Screenshot 2024-07-26 at 20.54.09](https://hackmd.io/_uploads/HJ4Mmd-KR.png)
 

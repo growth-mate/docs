@@ -1,4 +1,4 @@
-## 💵 Campaign Payment: 
+## 💵 Campaign Payment
 After successfully creating a campaign, you will see this view.
 
 ![image2](https://hackmd.io/_uploads/S1Bmh8T_R.png)
