@@ -52,7 +52,7 @@ It aims to drive higher engagement and conversion rates. It is perfect for campa
 ```
 Additionally, you can target viewers based on their net worth. For example, if you want your ad to be seen only by users with a wallet balance between $100 and $100,000, adjust the slider to reflect these values.
 
-Lastly, you can select among different campaign tags to help filter users who are interested in these categories.
+Lastly, you can choose from various campaign tags in order to filter users based on their interests in specific categories.
 
 ![Screenshot 2024-07-23 at 13.19.06](https://hackmd.io/_uploads/H1d6bGpOR.png)
 
