@@ -22,7 +22,7 @@ Here you will find step-by-step explanation how to create your first ad unit.
   Banner 320px x 50px
   
 ```admonish note
-Please note that these sizes may vary over time
+Please note that these sizes may vary over time.
 ```
 
 4. The next step is to upload a back up link and banner.
@@ -42,7 +42,7 @@ We ensure that your visitors will always be served the appropriate content, even
 ![Screenshot 2024-07-26 at 20.54.09](https://hackmd.io/_uploads/HJ4Mmd-KR.png)
 
 ```admonish note
-We also support React + wallet-selector which is our base case
+We also support React + wallet-selector which is our base case.
 ```
 
    ![Screenshot 2024-07-26 at 20.54.38](https://hackmd.io/_uploads/ByzE4_bYC.png)

@@ -23,7 +23,7 @@ Creating a new campaign is easy, just follow the steps:
 
   
 ```admonish note
-Please note that these sizes may vary over time
+Please note that these sizes may vary over time.
 ```
 
 4. The next step is to upload the ad image.
