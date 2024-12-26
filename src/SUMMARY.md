@@ -5,6 +5,7 @@
 - [📢 Advertisers](./Advertisers/intro.md)
     - [🛠️ Advertiser's Dashboard](./Advertisers/dashboard.md)
     - [📘 Advertiser's Studio](./Advertisers/studio.md)
+    - [🧑🏻‍⚖️ Campaign Selection](./Advertisers/campaign-selection.md)
 - [📺 Publishers](./Publishers/intro.md)
     - [🛠️ Publisher's Dashboard](./Publishers/dashboard.md)
     - [📘 Publisher's Studio](./Publishers/studio.md)
